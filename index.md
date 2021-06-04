@@ -1,4 +1,4 @@
-<a href="https://zairesims.github.io/webAssignment02/" > Page 1</a>
+<a href="https://zairesims.github.io/ZairesWebpage/" > Page 1</a>
 
 Mid Term Mini project  - (Adv) Web Programming Course
 
