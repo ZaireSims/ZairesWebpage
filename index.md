@@ -1,4 +1,4 @@
-<a href="https://zairesims.github.io/webAssignment02/" > Next Page</a>
+<a href="https://zairesims.github.io/webAssignment02/" > Page 1</a>
 
 
 ## About Me
