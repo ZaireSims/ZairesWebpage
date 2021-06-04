@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Zaire Sims
 
 You can use the [editor on GitHub](https://github.com/ZaireSims/webAssignment02/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
