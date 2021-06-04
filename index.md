@@ -1,4 +1,4 @@
-<a href="Pagename.md" > Next Page</a>
+<a href="index.md" > Next Page</a>
 
 
 ## About Me
